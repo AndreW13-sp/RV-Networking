@@ -4726,7 +4726,7 @@ img {
   }
 }
 .offcanvas__menu-wrapper.mean-container .mean-nav ul li a.mean-expand:hover {
-  background: rgba(255, 130, 12,0.3);
+  background: rgba(255, 130, 12, 0.3);
   opacity: 1;
 }
 .offcanvas__menu-wrapper.mean-container .mean-nav ul li li:first-child {
@@ -6233,7 +6233,7 @@ img {
   width: 60px;
   height: 60px;
   color: var(--white);
-  background: rgba(255,255,255,0.2);
+  background: rgba(255, 255, 255, 0.2);
   border-radius: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
